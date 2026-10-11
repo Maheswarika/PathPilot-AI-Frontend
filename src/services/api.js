@@ -18,5 +18,11 @@ api.interceptors.request.use((config) => {
 });
 
 export const authApi = api;
+export const careerApi = api;
+export const adminApi = api;
+export const progressApi = api;
+export const resourceApi = api;
+export const roadmapApi = api;
+export const studentApi = api;
 
 export default api;
