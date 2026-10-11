@@ -18,4 +18,5 @@ api.interceptors.request.use((config) => {
 });
 
 export const authApi = api;
+
 export default api;
